@@ -1,4 +1,4 @@
-# node-typescript-api
+# Node Typescript API
 
 Node API using typescript
 
