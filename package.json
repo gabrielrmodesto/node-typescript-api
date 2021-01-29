@@ -1,0 +1,20 @@
+{
+  "name": "node-typescript-api",
+  "version": "1.0.0",
+  "description": "Node API using typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielrmodesto/node-typescript-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielrmodesto/node-typescript-api/issues"
+  },
+  "homepage": "https://github.com/gabrielrmodesto/node-typescript-api#readme"
+}
